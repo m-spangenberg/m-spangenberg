@@ -28,8 +28,8 @@ Outside of software, I enjoy personal development and a few artistic hobbies. Wh
 
 ## 🌱 I’m currently learning
 
+- Database Administration
 - API Design & Development
-- Database Design & Development
 - Programming in C++, GO & Rust
 - Third Party Service Implementation
 
