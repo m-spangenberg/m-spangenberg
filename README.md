@@ -20,7 +20,7 @@ I am Marthinus Spangenberg, an aspiring **Back End Engineer** from Namibia! In t
 
 - Database Administration
 - API Design & Development
-- Programming in C++, GO & Java
+- Programming in Rust, GO & Java
 - Third Party Service Implementation
 
 <!--- Contact Methods --->
