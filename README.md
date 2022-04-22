@@ -8,8 +8,7 @@ I am Marthinus Spangenberg, an aspiring **Back End Engineer** from Namibia! In t
 
 ## 👨‍🔬 I build things with
 
-- The C Programming Language
-- Python, Flask, Jinja, Django, Scrapy, Selenium, Git
+- C, Python, Flask, Jinja, Django, Scrapy, Selenium, Git
 - SQLite, PostgreSQL, MariaDB, MySQL, InfluxDB
 - JavaScript, Node.js, Express.js, Socket.io
 - HTML, CSS, PHP, Bulma, Bootstrap, Tailwind
