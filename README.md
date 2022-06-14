@@ -4,22 +4,6 @@
 
 I am Marthinus Spangenberg, an aspiring **Back End Engineer** from Namibia! In the field of Computer Science, I'm interested in **Data Analytics**, **Machine Learning**, and **Embedded Systems** (specifically **Sensors & Automation**).
 
-<!--- Skill Set --->
-
-## 👨‍🔬 I build things with
-
-- C, Python, Flask, Jinja, Django, Scrapy, Selenium, Git
-- SQLite, PostgreSQL, MariaDB, MySQL, InfluxDB
-- JavaScript, Node.js, Express.js, Socket.io
-- HTML, CSS, PHP, Bulma, Bootstrap, Tailwind
-
-<!--- Current Focus --->
-
-## 🌱 I’m currently learning
-
-- Programming in GO & Java
-- API & Third Party Service Implementation
-
 <!--- Contact Methods --->
 
 ## 📫 How to reach me
