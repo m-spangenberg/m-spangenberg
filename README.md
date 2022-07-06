@@ -2,7 +2,7 @@
 
 ## 👋 Hey there!
 
-I am Marthinus Spangenberg, a **Software Developer** and aspiring **Back End Engineer** from Namibia! In the field of Computer Science, I'm interested in **Automation**, **Machine Learning**, and **Embedded Systems**.
+I am Marthinus Spangenberg, a **Software Developer** and aspiring **Back End Engineer** from Namibia! In the field of Computer Science, I'm interested in **Automation**, **Machine Learning**, and **Embedded Systems** and I want to learn everything I can about _server-side programming and development_.
 
 <!--- Contact Methods --->
 
