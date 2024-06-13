@@ -1,0 +1,1 @@
+I'm a Solutions Architect and Full Stack Engineer based in Namibia who has been coding for fun and profit since 2012. Currently, I'm really enjoying Python and Go and exploring Distributed Systems, Software Architecture, and Machine Learning.
