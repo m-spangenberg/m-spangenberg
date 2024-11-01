@@ -5,7 +5,7 @@
 [![X](https://img.shields.io/badge/BirdApp-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/marthinusx)
 [![LeetCode](https://img.shields.io/badge/leetCode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/m-spangenberg/)
 
-I'm based in Namibia and currently building software solutions and pipelines for corporate and enterprise customers. I've been coding for fun and profit since 2012 and used to be a 3D Animation and VFX technical artist. I dabble in a little of everything, predominantly working with Python and Go, but I try to make time for other languages when they fit the bill. Right this minute I'm exploring Distributed Systems, Network Programming, Machine Learning, and the whacky containerized wonderland that is Cloud-Native.
+I'm currently building software solutions and pipelines for enterprise customers. I've been coding for fun and profit since 2012 and used to be a 3D Animation and VFX technical artist. I dabble in a little of everything, predominantly working with Python and Go, but I try to be practical about not having a toolbox full of hammers. Right this minute I'm exploring Distributed Systems, Network Programming, and Machine Learning.
 
 ---
 
