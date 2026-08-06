@@ -12,7 +12,7 @@ I started out as a hobby programmer back in 2012 scripting small, one-off utliti
 | [demo-py-portfoliorisk](https://github.com/m-spangenberg/demo-py-portfoliorisk) | A data-pipeline that uses Yahoo Finance and Numpy to collect live price data and calculate a rolling Value at Risk (VaR). |
 | [demo-monetized-api](https://github.com/m-spangenberg/demo-monetized-api) | A system design repo demonstrating a monetized API which consists of an API gateway and Go-based microservices. |
 | [demo-django-rag](https://github.com/m-spangenberg/demo-django-rag) | A Django-based RAG knowledge base demo with local LLM generation, asynchronous PDF ingestion, Pinecone vector retrieval, and a template-based chat interface. |
-| [demo-semantic-crawl](https://github.com/m-spangenberg/demo-semantic-crawl) | A data engineering and applied machine learning pipeline that transforming unstructured web data into a corpus that can be analyzed and searched semantically. |
+| [demo-semantic-crawl](https://github.com/m-spangenberg/demo-semantic-crawl) | A data engineering and applied machine learning pipeline that transforms unstructured web data into a corpus that can be analyzed and searched semantically. |
 
 ---
 
