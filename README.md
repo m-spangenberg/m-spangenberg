@@ -1,6 +1,6 @@
 # Hi, I'm Marthinus
 
-I started out as a hobby programmer back in 2012 scripting one-off utilities in Python and Bash.
+I've been involved with computers for nearly 30 years. I got into hobby programming after college, scripting one-off utilities and small programs in Python and Bash. Right now I build custom software as a full-stack software developer.
 
 ## Experiments
 
