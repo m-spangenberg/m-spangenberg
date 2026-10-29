@@ -1,6 +1,6 @@
 # Hi, I'm Marthinus
 
-I've been involved with computers for nearly 30 years. I got into hobby programming after college, scripting one-off utilities and small programs in Python and Bash. Right now I build custom software as a full-stack software developer.
+I've been involved with computers for nearly 30 years. I got into hobby programming after college, scripting one-off utilities and small programs in Python and Bash. I have been building custom software as a full-stack software developer for the last 6 or so years, and right now I am pivoting to AI Systems Integrator and Forward Deployed Engineer positions to help build AI into real-world business infrastructure.
 
 ## Experiments
 
